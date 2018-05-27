@@ -10,7 +10,7 @@ namespace RunGame
 
 		float ySpeed;
 
-		public float jumpPower = 5;
+		public float jumpPower = 4;
 
 		private float gravity = -15f;
 
