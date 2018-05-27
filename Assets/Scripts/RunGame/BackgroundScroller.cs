@@ -10,7 +10,7 @@ namespace RunGame
 
 		float xOffset;
 
-		public float scrollingSpeed;
+		private float scrollingSpeed = 2.0f;
 
 		// Use this for initialization
 		void Start () 
