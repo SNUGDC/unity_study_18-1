@@ -12,7 +12,7 @@ namespace RunGame
 
 		public float jumpPower = 5;
 
-		public float gravity = -9.8f;
+		private float gravity = -15f;
 
 		void Update()
 		{
