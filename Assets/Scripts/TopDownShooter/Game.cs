@@ -6,7 +6,7 @@ namespace TopDownGame
 {
 	public class Game : MonoBehaviour 
 	{
-		int num = 1;
+		int num = 3;
 		public string bar;
 	}
 }
